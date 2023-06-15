@@ -1,6 +1,6 @@
 # AI and primitive agent-based techniques
 
-- [Backtacking and BFS]()
+- [Backtacking and BFS](MazeTraversal)
 - [Heuristics and search]()
 - [Chess-Checker and Bayes classification]()
 - [POS tagging using HMM, Markov chains, and more, and Optical character recognition using HMM]()
