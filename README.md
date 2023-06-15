@@ -10,7 +10,7 @@
 
 - [Filtering, Hough Transform, and Optical Music Recognition]()
 
-- [Image orthogonal transofrmations, Loopy Belief Propagation from scratch toy example, Stereoscopy from stereo images using multiple methods]()
+- [Image orthogonal transformations, Loopy Belief Propagation from scratch toy example, Stereoscopy from stereo images using multiple methods]()
 
 - [Hurricane Intensity measurement project from Satellite images](https://github.com/Blazeblitz276/Hurricane-Intensity-Estimation-using-Radiant-ML-Hub-Hurricane-Dataset)
 
